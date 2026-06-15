@@ -1,7 +1,7 @@
 '''
-Recipe and Meal Planner
+Recipe & Shopping List Planner
 
-Video Demo: URL HERE
+Video Demo: 
 
 Description:
 
