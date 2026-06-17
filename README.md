@@ -1,7 +1,7 @@
 '''
 Recipe & Shopping List Planner
 
-Video Demo: 
+Video Demo: https://youtu.be/yRdJ45tOptw
 
 Description:
 
